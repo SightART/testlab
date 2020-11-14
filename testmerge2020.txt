@@ -1,1 +1,4 @@
 Probeer deze file te checken en vervolgens te mergen met de mainbranch.
+Test1
+Test2
+Test3
